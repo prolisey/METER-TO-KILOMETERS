@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url('https://i10.fotocdn.net/s103/38a370a68e3bb82e/gallery_m/1169927690.jpg');
+    background-repeat: no-repeat;
+}
+.O {
+display: flex;
+flex-direction: column;
+justify-content: center;
+width: 50%;
+border: 1px solid rgba(255, 255, 255, 1);
+background-color: rgba(0, 0, 0, 0.5);
+padding: 10px;
+font-size: 20px;
+color: white;
+border-radius: 5px;
+}
+input {
+font-size:20px;
+border-radius: 5px;
+}
+button {
+height: 40px;
+font-size: 20px;
+}
